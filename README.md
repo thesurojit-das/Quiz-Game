@@ -6,5 +6,7 @@ Sections are
  Technology 
  Indian Politics
  Sports
+ 
+ 
  Once after completing one section you can go for another sections 
  
