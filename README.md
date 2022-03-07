@@ -1,4 +1,5 @@
-# Quiz-Game
+<h1 align="center">Quiz-Game</h1>
+
 Here you get 5 questions from each section select anyone to play the quiz.
 
 Section are-> 
