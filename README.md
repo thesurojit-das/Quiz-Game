@@ -15,4 +15,5 @@ Section are->
  
  
  Once after completing one section you can move for another section.
+ Atlast it will show your total score obtained in the quiz
  
